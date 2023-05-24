@@ -1,0 +1,336 @@
+TY  - JOUR
+TI  - A Survey of Forex and Stock Price Prediction Using Deep Learning
+AU  - Hu, Zexin
+AU  - Zhao, Yiqi
+AU  - Khushi, Matloob
+T2  - Applied System Innovation
+DA  - 2021/02//
+PY  - 2021
+DO  - 10.3390/asi4010009
+VL  - 4
+SP  - 9
+ER  - 
+
+TY  - BOOK
+TI  - Advances in financial machine learning
+AU  - Mailoc, Marcos
+DA  - 2018///
+PY  - 2018
+PB  - John Wiley & Sons, Inc
+ER  - 
+
+TY  - JOUR
+TI  - A deep learning framework for financial time series using stacked autoencoders and long-short term memory
+AU  - Bao, Wei
+AU  - Yue, Jun
+AU  - Rao, Yulei
+T2  - PLOS ONE
+A2  - Podobnik, Boris
+DA  - 2017/07//
+PY  - 2017
+DO  - 10.1371/journal.pone.0180944
+VL  - 12
+SP  - e0180944
+ER  - 
+
+TY  - JOUR
+TI  - Wind speed forecasting method based on deep learning strategy using empirical wavelet transform, long short term memory neural network and Elman neural network
+AU  - Liu, Hui
+AU  - Mi, Xi-wei
+AU  - Li, Yan-fei
+T2  - Energy Conversion and Management
+DA  - 2018/01//
+PY  - 2018
+DO  - 10.1016/j.enconman.2017.11.053
+VL  - 156
+SP  - 498
+EP  - 514
+Y2  - 2021/01/22/
+ER  - 
+
+TY  - JOUR
+TI  - Effective long short-term memory with fruit fly optimization algorithm for time series forecasting
+AU  - Peng, Lu
+AU  - Zhu, Qing
+AU  - Lv, Sheng-Xiang
+AU  - Wang, Lin
+T2  - Soft Computing
+DA  - 2020/03//
+PY  - 2020
+DO  - 10.1007/s00500-020-04855-2
+VL  - 24
+SP  - 15059
+EP  - 15079
+ER  - 
+
+TY  - JOUR
+TI  - Forecasting with artificial neural networks:
+AU  - Zhang, Guoqiang
+AU  - Eddy Patuwo, B.
+AU  - Y. Hu, Michael
+T2  - International Journal of Forecasting
+DA  - 1998/03//
+PY  - 1998
+DO  - 10.1016/s0169-2070(97)00044-7
+VL  - 14
+SP  - 35
+EP  - 62
+ER  - 
+
+TY  - JOUR
+TI  - Forecasting Volatility and Option Prices of the S&P 500 Index
+AU  - Noh, Jaesun
+AU  - Engle, Robert F.
+AU  - Kane, Alex
+T2  - The Journal of Derivatives
+DA  - 1994/08//
+PY  - 1994
+DO  - 10.3905/jod.1994.407901
+VL  - 2
+SP  - 17
+EP  - 30
+Y2  - 2021/04/19/
+ER  - 
+
+TY  - JOUR
+TI  - Long Short-Term Memory Network for Remaining Useful Life estimation
+AU  - Zheng, Shuai
+AU  - Ristovski, Kosta
+AU  - Farahat, Ahmed
+AU  - Gupta, Chetan
+T2  - 2017 IEEE International Conference on Prognostics and Health Management (ICPHM)
+DA  - 2017/06//
+PY  - 2017
+DO  - 10.1109/icphm.2017.7998311
+ER  - 
+
+TY  - JOUR
+TI  - A new financial data forecasting model using genetic algorithm and long short-term memory network
+AU  - Huang, Yusheng
+AU  - Gao, Yelin
+AU  - Gan, Yan
+AU  - Ye, Mao
+T2  - Neurocomputing
+DA  - 2020/04//
+PY  - 2020
+DO  - 10.1016/j.neucom.2020.04.086
+ER  - 
+
+TY  - JOUR
+TI  - Recurrent neural networks for short-term load forecasting
+AU  - Vermaak, J.
+AU  - Botha, E.C.
+T2  - IEEE Transactions on Power Systems
+DA  - 1998///
+PY  - 1998
+DO  - 10.1109/59.651623
+VL  - 13
+SP  - 126
+EP  - 132
+Y2  - 2019/12/13/
+ER  - 
+
+TY  - JOUR
+TI  - Recurrent Neural Networks for Time Series Forecasting: Current status and future directions
+AU  - Hewamalage, Hansika
+AU  - Bergmeir, Christoph
+AU  - Bandara, Kasun
+T2  - International Journal of Forecasting
+DA  - 2021/01//
+PY  - 2021
+DO  - 10.1016/j.ijforecast.2020.06.008
+VL  - 37
+SP  - 388
+EP  - 427
+ER  - 
+
+TY  - JOUR
+TI  - Long Short-Term Memory
+AU  - Hochreiter, Sepp
+AU  - Schmidhuber, Jürgen
+T2  - Neural Computation
+DA  - 1997/11//
+PY  - 1997
+VL  - 9
+SP  - 1735
+EP  - 1780
+ER  - 
+
+TY  - JOUR
+TI  - Natural language based financial forecasting: a survey
+AU  - Xing, Frank Z.
+AU  - Cambria, Erik
+AU  - Welsch, Roy E.
+T2  - Artificial Intelligence Review
+DA  - 2017/10//
+PY  - 2017
+DO  - 10.1007/s10462-017-9588-9
+VL  - 50
+SP  - 49
+EP  - 73
+ER  - 
+
+TY  - JOUR
+TI  - Stock Market Forecasting Using Computational Intelligence: A Survey
+AU  - Kumar, Gourav
+AU  - Jain, Sanjeev
+AU  - Singh, Uday Pratap
+T2  - Archives of Computational Methods in Engineering
+DA  - 2020/02//
+PY  - 2020
+DO  - 10.1007/s11831-020-09413-5
+ER  - 
+
+TY  - JOUR
+TI  - Utilization of soft computing techniques for constructing reliable decision support systems for dealing stocks
+AU  - Baba, Naoshi
+AU  - Inoue, N
+AU  - Yanjun, Yan
+DA  - 2002/08//
+PY  - 2002
+DO  - 10.1109/ijcnn.2002.1007474
+Y2  - 2023/05/16/
+ER  - 
+
+TY  - JOUR
+TI  - A LSTM-based method for stock returns prediction: A case study of China stock market
+AU  - Chen, Kai
+AU  - Zhou, Yi
+AU  - Dai, Fangyan
+T2  - 2015 IEEE International Conference on Big Data (Big Data)
+DA  - 2015/10//
+PY  - 2015
+DO  - 10.1109/bigdata.2015.7364089
+UR  - https://ieeexplore.ieee.org/abstract/document/7364089
+ER  - 
+
+TY  - JOUR
+TI  - Classification and regression trees
+AU  - Loh, Wei-Yin
+T2  - Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery
+DA  - 2011/01//
+PY  - 2011
+DO  - 10.1002/widm.8
+VL  - 1
+SP  - 14
+EP  - 23
+ER  - 
+
+TY  - JOUR
+TI  - Forecasting copper prices by decision tree learning
+AU  - Liu, Chang
+AU  - Hu, Zhenhua
+AU  - Li, Yan
+AU  - Liu, Shaojun
+T2  - Resources Policy
+DA  - 2017/06//
+PY  - 2017
+DO  - 10.1016/j.resourpol.2017.05.007
+VL  - 52
+SP  - 427
+EP  - 434
+Y2  - 2019/10/12/
+ER  - 
+
+TY  - JOUR
+TI  - Predicting the direction of stock market prices using random forest
+AU  - Khaidem, Luckyson
+AU  - Saha, Snehanshu
+AU  - Dey, Sudeepa Roy
+T2  - arXiv (Cornell University)
+DA  - 2016/04//
+PY  - 2016
+DO  - 10.48550/arxiv.1605.00003
+ER  - 
+
+TY  - JOUR
+TI  - Forecasting Stock Index Movement: A Comparison of Support Vector Machines and Random Forest
+AU  - Kumar, Manish
+AU  - M., Thenmozhi
+T2  - SSRN Electronic Journal
+DA  - 2006///
+PY  - 2006
+DO  - 10.2139/ssrn.876544
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID876544_code551806.pdf?abstractid=876544&mirid=1&type=2
+Y2  - 2019/07/08/
+ER  - 
+
+TY  - JOUR
+TI  - Stock market forecasting using a multi-task approach integrating long short-term memory and the random forest framework
+AU  - Park, Hyun Jun
+AU  - Kim, Youngjun
+AU  - Kim, Ha Young
+T2  - Applied Soft Computing
+DA  - 2021/11//
+PY  - 2021
+DO  - 10.1016/j.asoc.2021.108106
+SP  - 108106
+ER  - 
+
+TY  - JOUR
+TI  - The use of data mining and neural networks for forecasting stock market returns
+AU  - Enke, David
+AU  - Thawornwong, Suraphan
+T2  - Expert Systems with Applications
+DA  - 2005/11//
+PY  - 2005
+DO  - 10.1016/j.eswa.2005.06.024
+VL  - 29
+SP  - 927
+EP  - 940
+Y2  - 2019/10/11/
+ER  - 
+
+TY  - JOUR
+TI  - Artificial Neural Network Models for Forecasting Stock Price Index in the Bombay Stock Exchange
+AU  - Dutta, Goutam
+AU  - Jha, Pankaj
+AU  - Laha, Arnab Kumar
+AU  - Mohan, Neeraj
+T2  - Journal of Emerging Market Finance
+DA  - 2006/12//
+PY  - 2006
+DO  - 10.1177/097265270600500305
+VL  - 5
+SP  - 283
+EP  - 295
+Y2  - 2020/01/07/
+ER  - 
+
+TY  - JOUR
+TI  - An innovative neural network approach for stock market prediction
+AU  - Pang, Xiongwen
+AU  - Zhou, Yanqiang
+AU  - Wang, Pan
+AU  - Lin, Weiwei
+AU  - Chang, Victor
+T2  - The Journal of Supercomputing
+DA  - 2018/01//
+PY  - 2018
+DO  - 10.1007/s11227-017-2228-y
+ER  - 
+
+TY  - JOUR
+TI  - Science Podcast
+T2  - Science
+DA  - 2012/03//
+PY  - 2012
+DO  - 10.1126/science.335.6072.1126-b
+VL  - 335
+SP  - 1126
+EP  - 1126
+ER  - 
+
+TY  - JOUR
+TI  - Stock Market Prediction Using LSTM Recurrent Neural Network
+AU  - Moghar, Adil
+AU  - Hamiche, Mhamed
+T2  - Procedia Computer Science
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.procs.2020.03.049
+VL  - 170
+SP  - 1168
+EP  - 1173
+ER  - 
+
